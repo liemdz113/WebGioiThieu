@@ -3,7 +3,14 @@ body {
   padding: 45px 0;
   color: black;
 }
-
+container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 25px;
+    background-color: #ffb9b9;
+    border-radius: 15px;
+    box-shadow: 0 2px 5px rgb(76 50 202);
+}
 .avatar {
   border-radius: 100px;
 }
